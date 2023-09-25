@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+
+
+{% set title = "Home page" %}
+
+{% block content %}
+    <h1>Faculty List</h1>
+    <br>
+    {% if not faculties %}
+        <p>No faculty</p>
+    {% endif %}
+    {% for faculty in faculties %}
+
+        <div class="card m-1">
+
+            <div class="card-header">
+                <p class="card-title"><h3 style="color: black; font-weight: bold;">{{ faculty.firstName }}, {{ faculty.lastName }}</h3></p>
+            </div>
+
+            <div class="card-body">
+                <h5 class="card-text mb-2" style="color: black;">{{ faculty.title }}</h5>
+                <h5 class="card-text mb-2" style="color: black;">{{ faculty.disipline }}</h5>
+                <p class="card-text text-muted">{{ faculty.date_created }}</p>
+            </div>
+
+         </div>
+
+        <!-- <div class="card p-1 m-3">
+            <div class="card-body">
+                <p class="card-text" style="color: black; font-weight: bold; ">{{ faculty.first_name }}, {{ faculty.last_name }}</p>
+                <p class="card-text text-muted">{{ faculty.date_created }}</p>
+            </div>
+        </div> -->
+    {% endfor %}
+{% endblock %}

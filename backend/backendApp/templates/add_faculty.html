@@ -1,0 +1,55 @@
+{% extends "layout.html" %}
+
+{% set title = legend %}
+
+{% block content %}
+    <h1> Add faculty </h1>
+
+    <div class="container col-md-6 col-md-offset-3 mt-5 mb-5 text-center">
+        <form method="POST" class="form-register" style="color:white">
+            {{ form.hidden_tag() }} <!-- this is a hidden field that is required for CSRF protection -->
+
+            <img class="mb-4" src="https://static.vecteezy.com/system/resources/previews/003/423/831/non_2x/cute-cat-kitten-greeting-cartoon-doodle-background-wallpaper-free-vector.jpg" alt="(⓿_⓿)" style="width: 200px; height: 150px; margin-top: 10px; margin-bottom: 10px; border-radius: 50%; border: 2px solid white; padding: 5px; background-color: white;"/>
+            <h1 class="h3 mb-3 font-weight-normal">
+                Enter Faculty
+            </h1>
+            <br>
+            <!-- schoolName, schoolDepartment, firstName, lastName, title, disipline, email, city, state, schoolUrl -->
+            <div class="form-group text-left">
+                {{ form.schoolName.label(class="form-control-label") }}
+                {{ form.schoolName(class="form-control form-control-lg", placeholder="school name") }}
+            
+                {{ form.schoolDepartment.label(class="form-control-label") }}
+                {{ form.schoolDepartment(class="form-control form-control-lg", placeholder="school department") }}
+            
+                {{ form.firstName.label(class="form-control-label") }}
+                {{ form.firstName(class="form-control form-control-lg", placeholder="first name") }}
+            
+                {{ form.lastName.label(class="form-control-label") }}
+                {{ form.lastName(class="form-control form-control-lg", placeholder="last name") }}
+            
+                {{ form.title.label(class="form-control-label") }}
+                {{ form.title(class="form-control form-control-lg", placeholder="title") }}
+            
+                {{ form.disipline.label(class="form-control-label") }}
+                {{ form.disipline(class="form-control form-control-lg", placeholder="disipline") }}
+            
+                {{ form.email.label(class="form-control-label") }}
+                {{ form.email(class="form-control form-control-lg", placeholder="email") }}
+            
+                {{ form.city.label(class="form-control-label") }}
+                {{ form.city(class="form-control form-control-lg", placeholder="city") }}
+            
+                {{ form.state.label(class="form-control-label") }}
+                {{ form.state(class="form-control form-control-lg", placeholder="state") }}
+
+                {{ form.schoolUrl.label(class="form-control-label") }}
+                {{ form.schoolUrl(class="form-control form-control-lg", placeholder="school url") }} 
+            </div>
+            <br>
+            {{ form.submit(class="btn btn-outline-info") }}
+        </form>
+    </div>
+    
+{% endblock %}
+

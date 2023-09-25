@@ -1,0 +1,298 @@
+[
+    {
+      "name": "Amy Adler",
+      "title": "Professor",
+      "department": "Studio",
+      "email": "aadler@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyamy-adler.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyamy-adler.html"
+    },
+    {
+      "name": "Memo Akten",
+      "title": "Assistant Professor",
+      "department": "ICAM",
+      "email": "makten@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultymemo-akten.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultymemo-akten.html"
+    },
+    {
+      "name": "Amy Alexander",
+      "title": "Professor",
+      "department": "ICAM, Speculative Design",
+      "email": "ajalexander at our campus domain",
+      "link": "https://visarts.ucsd.edu/people/facultyamy-alexander.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyamy-alexander.html"
+    },
+    {
+      "name": "Benjamin Bratton",
+      "title": "Professor",
+      "department": "Speculative Design, ICAM",
+      "email": "bbratton@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultybenjamin-bratton.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultybenjamin-bratton.html"
+    },
+    {
+      "name": "Lisa Cartwright",
+      "title": "Professor",
+      "department": "ICAM, Speculative Design, Media",
+      "email": "lisac@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultylisa-cartwright.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultylisa-cartwright.html"
+    },
+    {
+      "name": "Eric Cho",
+      "title": "Assistant Professor",
+      "department": "Media",
+      "email": "erc037@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyeric-cho.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyeric-cho.html"
+    },
+    {
+      "name": "Jordan Crandall",
+      "title": "Professor",
+      "department": "ICAM, Studio, Speculative Design, Media",
+      "email": "jcrandall@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyjordan-crandall.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyjordan-crandall.html"
+    },
+    {
+      "name": "Brian Cross",
+      "title": "Associate Professor",
+      "department": "Media",
+      "email": "b2cross@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultybrian-cross.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultybrian-cross.html"
+    },
+    {
+      "name": "Teddy Cruz",
+      "title": "Professor",
+      "department": "Speculative Design",
+      "email": "etcruz@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyteddy-cruz.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyteddy-cruz.html"
+    },
+    {
+      "name": "Danielle Dean",
+      "title": "Associate Professor",
+      "department": "Studio",
+      "email": "dadean@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultydanielle-dean.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultydanielle-dean.html"
+    },
+    {
+      "name": "Jessica D'Elena-Tweed",
+      "title": "Assistant Teaching Professor (LPSOE)",
+      "department": "Speculative Design",
+      "email": "djessica@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyjessica-delena-tweed.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyjessica-delena-tweed.html"
+    },
+    {
+      "name": "Ricardo Dominguez",
+      "title": "Professor and Chair",
+      "department": "ICAM, Studio, Speculative Design",
+      "email": "rrdominguez@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyricardo-dominguez.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyricardo-dominguez.html"
+    },
+    {
+      "name": "dean erdmann",
+      "title": "Assistant Professor",
+      "department": "Studio, Media",
+      "email": "deerdmann@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultydean-erdmann.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultydean-erdmann.html"
+    },
+    {
+      "name": "Malik Gaines",
+      "title": "Associate Professor",
+      "department": "Media, Art History",
+      "email": "mjgaines@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultymalik-gaines.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultymalik-gaines.html"
+    },
+    {
+      "name": "Anya Gallaccio",
+      "title": "Professor",
+      "department": "Studio",
+      "email": "agallaccio@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyanya-gallaccio.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyanya-gallaccio.html"
+    },
+    {
+      "name": "Mariah Garnett",
+      "title": "Assistant Professor",
+      "department": "Media",
+      "email": "mgarnett@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultymariah-garnett.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultymariah-garnett.html"
+    },
+    {
+      "name": "Janelle Iglesias",
+      "title": "Assistant Professor",
+      "department": "Studio",
+      "email": "jiglesias@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyjanelle-iglesias.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyjanelle-iglesias.html"
+    },
+    {
+      "name": "Grant Kester",
+      "title": "Professor",
+      "department": "Art History, Media",
+      "email": "gkester@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultygrant-kester.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultygrant-kester.html"
+    },
+    {
+      "name": "Babette Mangolte",
+      "title": "Professor",
+      "department": "Media",
+      "email": "bmangolte@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultybabette-mangolte.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultybabette-mangolte.html"
+    },
+    {
+      "name": "Nicole Miller",
+      "title": "Associate Professor",
+      "department": "Media",
+      "email": "nlm007@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultynicole-miller.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultynicole-miller.html"
+    },
+    {
+      "name": "Ceci Moss",
+      "title": "Professor of Practice",
+      "department": "Director & Chief Curator, Mandeville Art Gallery",
+      "email": "clmoss@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyceci-moss.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyceci-moss.html"
+    },
+    {
+      "name": "Lorena Mostajo",
+      "title": "Assistant Professor",
+      "department": "Media",
+      "email": "mgomezmostajo@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultylorena-mostajo.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultylorena-mostajo.html"
+    },
+    {
+      "name": "Elizabeth A. Newsome",
+      "title": "Associate Professor",
+      "department": "Art History",
+      "email": "enewsome@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyelizabeth-a-newsome.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyelizabeth-a-newsome.html"
+    },
+    {
+      "name": "Rubén Ortiz-Torres",
+      "title": "Professor",
+      "department": "Studio, Media",
+      "email": "ruortiz@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyrubén-ortiz-torres.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyrubén-ortiz-torres.html"
+    },
+    {
+      "name": "Kyong Park",
+      "title": "Professor",
+      "department": "Speculative Design",
+      "email": "kdpark@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultykyong-park.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultykyong-park.html"
+    },
+    {
+      "name": "Jordan Rose",
+      "title": "Assistant Professor",
+      "department": "Art History",
+      "email": "jmrose@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyjordan-rose.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyjordan-rose.html"
+    },
+    {
+      "name": "Alexandro Segade",
+      "title": "Assistant Professor",
+      "department": "Media, Studio",
+      "email": "asegade@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyalexandro-segade.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyalexandro-segade.html"
+    },
+    {
+      "name": "Paul Mpagi Sepuya",
+      "title": "Associate Professor",
+      "department": "Media",
+      "email": "psepuya@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultypaul-mpagi-sepuya.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultypaul-mpagi-sepuya.html"
+    },
+    {
+      "name": "Kuiyi Shen",
+      "title": "Professor",
+      "department": "Art History",
+      "email": "kshen@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultykuiyi-shen.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultykuiyi-shen.html"
+    },
+    {
+      "name": "Brett Stalbaum",
+      "title": "Associate Teaching Professor (LSOE)",
+      "department": "ICAM, Speculative Design",
+      "email": "stalbaum@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultybrett-stalbaum.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultybrett-stalbaum.html"
+    },
+    {
+      "name": "Michael Trigilio",
+      "title": "Teaching Professor (SLSOE)",
+      "department": "Media",
+      "email": "mtrigilio@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultymichael-trigilio.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultymichael-trigilio.html"
+    },
+    {
+      "name": "William Tronzo",
+      "title": "Teaching Professor (Senior LSOE)",
+      "department": "Art History",
+      "email": "wtronzo@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultywilliam-tronzo.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultywilliam-tronzo.html"
+    },
+    {
+      "name": "Monique van Genderen",
+      "title": "Professor",
+      "department": "Studio",
+      "email": "mvangenderen@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultymonique-van-genderen.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultymonique-van-genderen.html"
+    },
+    {
+      "name": "Mariana Wardwell",
+      "title": "Associate Professor",
+      "department": "Art History, Media",
+      "email": "mwardwell@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultymariana-wardwell.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultymariana-wardwell.html"
+    },
+    {
+      "name": "John C. Welchman",
+      "title": "Distinguished Professor",
+      "department": "Art History",
+      "email": "jwelchman1@juno.com",
+      "link": "https://visarts.ucsd.edu/people/facultyjohn-c-welchman.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyjohn-c-welchman.html"
+    },
+    {
+      "name": "Alena Williams",
+      "title": "Assistant Professor",
+      "department": "Art History/Media, ICAM, Speculative Design",
+      "email": "ajwilliams@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultyalena-williams.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultyalena-williams.html"
+    },
+    {
+      "name": "Pinar Yoldas",
+      "title": "Associate Professor",
+      "department": "ICAM, Speculative Design",
+      "email": "pyoldas@ucsd.edu",
+      "link": "https://visarts.ucsd.edu/people/facultypinar-yoldas.html",
+      "alternativeLink": "https://visarts.ucsd.edu/people/facultypinar-yoldas.html"
+    }
+  ]
