@@ -1,4 +1,4 @@
-from pymongo import MongoClinet
+from pymongo import MongoClient
 from pymongo.collection import Collection
 from bson import ObjectId
 from datetime import datetime
